@@ -14,7 +14,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "1031155710650-dfja6ggr4jo9nd4iaued005uos5l8lfr.apps.googleusercontent.com",
+          "client_id": "1031155710650-dsueq43el00o2167q6uvk8orjri9eju0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shelterfinder",
+            "certificate_hash": "facd586735b9ac099580a9a717085f30a72c71b2"
+          }
+        },
+        {
+          "client_id": "1031155710650-0kalsuqihsalov4k96p4tv7c85ksef82.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -27,7 +35,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1031155710650-dfja6ggr4jo9nd4iaued005uos5l8lfr.apps.googleusercontent.com",
+              "client_id": "1031155710650-0kalsuqihsalov4k96p4tv7c85ksef82.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
