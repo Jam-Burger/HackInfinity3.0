@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031155710650",
+    "project_id": "shelterfinder-b471a",
+    "storage_bucket": "shelterfinder-b471a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031155710650:android:a108caf50e23591d20a083",
+        "android_client_info": {
+          "package_name": "com.example.shelterfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031155710650-dfja6ggr4jo9nd4iaued005uos5l8lfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDamqUcpntGwbiF3PZwiD2ab7ZXhI8GtUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031155710650-dfja6ggr4jo9nd4iaued005uos5l8lfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
